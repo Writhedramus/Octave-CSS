@@ -1,0 +1,61 @@
+/*** CSS for Hexane: originally made by Pemm for Jovian's Superego, edited by Gelatino for Ripe For Conquest, edited again by tiresiasArchivist for Hexane and Scratchprone, and edited again by Gentlyrot for Octave. This is a test code. ***/  
+
+#main, #articleholder {     background: #b43614 !important; }  #adventurepage, #pagecommand {       color: #fff;}
+
+header img, #mspalogo, .myAd { opacity:1; } 
+
+.adventurepage { width:700px; color: 92370f; } 
+
+body {background-color:#cd5606;} 
+
+#main header nav, #topmenu {     background: #560b0b;     text-transform: none; } 
+
+#main header nav {     height: 11px; } 
+
+.spacing {     display: inline-block; } 
+
+.vbar {     line-height: 15px;     color: #7F7F7E; } 
+
+.heart {     background: url(http://orig15.deviantart.net/ad6b/f/2016/327/1/2/drop_by_wellidkartist-dapeyw0.png) bottom center no-repeat;         padding-top:10px;      display: inline-block; padding:8px; } 
+
+.heart img { display:none;} 
+
+a:link {     color: #ff8800 !important; } 
+
+a:visited {     color: #ca0000 !important; } 
+
+a:hover, a:active { color:#b26c10 !important; } 
+
+#topmenu a {     color: #fff !important;     line-height: 15px; }  #authorship, #mirroring, #basic, #description, #rss 
+
+{     font-style: italic;     font-weight: normal;     margin: 0px; color: #ff0000 }
+
+#pagelist {     background: #560b0b; } 
+
+#viewall {     background: #560b0b; } 
+
+#col1 {     background: #560b0b; } 
+
+#col2 {     background: #aa2906; } 
+
+#container1 {     background: #aa2906; } 
+
+#container2 {     background: #aa2906; } 
+
+#container3 {     background: #560b0b; } 
+
+#pagelist {     background: #560b0b;     color:#ffffff;     padding-top:30px; } 
+
+#articleholder { background: #aa2906 !important; } 
+
+#text1, #text2, #text3, #text4, #text5, #text { color: #ffffff; } 
+
+#nextlinks a:visited, #backlinks a:visited {     color: #dd2e2e !important; } 
+
+.adventurepage a:hover, .adventurepage a:active { color:#ff0000 !important; } 
+
+.container3 { color: #ff0000; }  
+
+header #mspalogo {     opacity:0; } 
+
+header {     background: #4f5354 url(http://orig04.deviantart.net/106f/f/2016/327/9/0/header_by_wellidkartist-dapf4vs.gif)no-repeat; }
