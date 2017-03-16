@@ -1,4 +1,4 @@
-/*** CSS for Octave: originally made by Pemm for Jovian's Superego, edited by Gelatino for Ripe For Conquest, edited again by tiresiasArchivist for Hexane and Scratchprone, and edited yet again by Writhedramus for Octave. ***/  
+/*** CSS for Octave: originally made by Pemm for Jovian's Superego, edited by Gelatino for Ripe For Conquest, edited again by inspiredSimji for Hexane and Scratchprone, and edited yet again by Writhedramus for Octave. ***/  
 
 #main, #articleholder {     background: #b43614 !important; }  #adventurepage, #pagecommand {       color: #fff;}
 
@@ -28,7 +28,7 @@ a:hover, a:active { color:#b26c10 !important; }
 
 #topmenu a {     color: #fff !important;     line-height: 15px; }  #authorship, #mirroring, #basic, #description, #rss 
 
-{     font-style: italic;     font-weight: normal;     margin: 0px; color: #ff0000 }
+{     font-style: normal;     font-weight: normal;     margin: 0px; color: #ff0000 }
 
 #pagelist {     background: #560b0b; } 
 
