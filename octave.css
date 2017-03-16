@@ -56,7 +56,7 @@ a:hover, a:active { color:#b26c10 !important; }
 
 .container3 { color: #ff0000; }  
 
-div.tutorialholder { color: #aa2906; }
+div.tutorialholder { background: #aa2906; }
 
 header #mspalogo {     opacity:0; } 
 
