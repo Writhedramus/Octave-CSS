@@ -48,6 +48,8 @@ a:hover, a:active { color:#b26c10 !important; }
 
 #articleholder { background: #aa2906 !important; } 
 
+#tutorialholder { background: #aa2906; }
+
 #text1, #text2, #text3, #text4, #text5, #text { color: #ffffff; } 
 
 #nextlinks a:visited, #backlinks a:visited {     color: #dd2e2e !important; } 
