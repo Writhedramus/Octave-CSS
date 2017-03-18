@@ -56,11 +56,17 @@ a:hover, a:active { color:#b26c10 !important; }
 
 .container3 { color: #ff0000; }  
 
-aside.tutorial div.tutorialholder { background-color: #aa2906;  border-color: #560b0b; }
+aside.tutorial .tutorialholder {
+	margin: 0px;
+	padding: 6px;
+	border: 5px solid #560b0b; 
+background-color: #aa2906; 
+}
 
-footer {   background: url(http://orig11.deviantart.net/f0c8/f/2017/075/b/e/footer_by_wellidkartist-db2jp1q.gif)no-repeat;
-    background-position-y: 50%; }
-footer #bottomlogo {  opacity: 0; }
+#bottomlogo{ background-image:url('http://orig11.deviantart.net/f0c8/f/2017/075/b/e/footer_by_wellidkartist-db2jp1q.gif'); 
+background-color:#560b0b; 
+border-right:solid 4px #CD5606; 
+}
 
 header #mspalogo {     opacity:0; } 
 
