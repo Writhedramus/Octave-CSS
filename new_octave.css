@@ -1,0 +1,57 @@
+body {
+    background-color: #85d0da;
+}
+.mspfalogo {
+    border-right-color: #6fa3a6;
+    background-image: url("http://orig15.deviantart.net/607e/f/2017/161/3/a/footer_by_wellidkartist-dbc7nj3.gif") !important;
+}
+nav {
+    background-color: #000;
+    text-transform: none;
+    color: #7f7f7e;
+}
+nav .heart {
+    background-image: url("http://orig15.deviantart.net/ad6b/f/2016/327/1/2/drop_by_wellidkartist-dapeyw0.png");
+}
+nav a {
+    color: #fff !important;
+}
+a:link {
+    color: #3cffff;
+}
+a:visited {
+    color: #0c94c6;
+}
+a:hover, a:active {
+    color: #007b7b;
+}
+#main {
+    background-color: #5e9ea2;
+}
+#slide {
+    display: block;
+    background-color: #175856;
+    color: #fff;
+}
+#foot {
+    color: #00ffff;
+}
+#links {
+    color: #fff;
+}
+#info {
+    color: #fff;
+}
+#info > span > .spoiler.open {
+    background: #175856;
+}
+body#p3541 #links {
+    font-weight: bolder;
+    font-size: 28px;
+}
+body#p3542 #command {
+    display: none;
+}
+body#p3542 #content .major {
+    margin-left: -175px;
+}
