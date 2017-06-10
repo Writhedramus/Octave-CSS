@@ -7,11 +7,8 @@ body {
 }
 nav {
     background-color: #000;
-    text-transform: none;
-    color: #7f7f7e;
-}
-nav { 
     text-transform: uppercase;
+    color: #7f7f7e;
 }
 nav .heart {
     background-image: url("http://orig15.deviantart.net/ad6b/f/2016/327/1/2/drop_by_wellidkartist-dapeyw0.png");
@@ -29,7 +26,7 @@ a:hover, a:active {
     color: #007b7b;
 }
 #main {
-    background-color: #5e9ea2;
+    background-color: #0E3541;
 }
 #slide {
     display: block;
