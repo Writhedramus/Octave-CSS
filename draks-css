@@ -3,10 +3,10 @@ body {
 }
 .mspfalogo {
     border-right-color: #cc6666;
-    background-image: url("http://orig13.deviantart.net/6f09/f/2017/169/f/3/footer_by_wellidkartist-dbd4r2k.gif") !important;
+    background-image: url("https://orig00.deviantart.net/48e2/f/2017/290/0/9/headfooter_by_wellidkartist-dbqxlzn.gif") !important;
 }
 nav {
-    background-color: #000;
+    background-color: #ff933;
     text-transform: uppercase;
     color: #7f7f7f;
 }
@@ -20,7 +20,7 @@ a:link {
     color: #ffcc99;
 }
 a:visited {
-    color: #cc6666;
+    color: #ff9999;
 }
 a:hover, a:active {
     color: #ff9999;
@@ -43,7 +43,7 @@ a:hover, a:active {
     color: #fff;
 }
 #info > span > .spoiler.open {
-    background: #993300;
+    background: #ff6633;
 }
 body#p3541 #links {
     font-weight: bolder;
