@@ -2,7 +2,7 @@ body {
     background-color: #330000;
 }
 .mspfalogo {
-    border-right-color: #cc3333;
+    border-right-color: #cc6666;
     background-image: url("http://orig13.deviantart.net/6f09/f/2017/169/f/3/footer_by_wellidkartist-dbd4r2k.gif") !important;
 }
 nav {
