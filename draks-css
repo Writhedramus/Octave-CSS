@@ -1,5 +1,5 @@
 body {
-    background-color: #660000;
+    background-color: #330000;
 }
 .mspfalogo {
     border-right-color: #cc3333;
@@ -11,7 +11,7 @@ nav {
     color: #7f7f7f;
 }
 nav .heart {
-    background-image: url("http://orig15.deviantart.net/ad6b/f/2016/327/1/2/drop_by_wellidkartist-dapeyw0.png");
+    background-image: url("https://orig00.deviantart.net/135e/f/2017/290/3/b/tooth_by_wellidkartist-dbqxj1s.png");
 }
 nav a {
     color: #fff !important;
@@ -26,11 +26,11 @@ a:hover, a:active {
     color: #ff9999;
 }
 #main {
-    background-color: #330000;
+    background-color: #cc3333;
 }
 #slide {
     display: block;
-    background-color: #0E3541;
+    background-color: #660000;
     color: #fff;
 }
 #foot {
@@ -43,7 +43,7 @@ a:hover, a:active {
     color: #fff;
 }
 #info > span > .spoiler.open {
-    background: #175856;
+    background: #993300;
 }
 body#p3541 #links {
     font-weight: bolder;
