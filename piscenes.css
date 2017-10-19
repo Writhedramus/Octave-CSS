@@ -1,57 +1,57 @@
 .p2 body {
     background-color: #003333;
 }
-.mspfalogo {
+.p2 .mspfalogo {
     border-right-color: #66cccc;
     background-image: url("https://orig00.deviantart.net/48e2/f/2017/290/0/9/headfooter_by_wellidkartist-dbqxlzn.gif") !important;
 }
-nav {
+.p2 nav {
     background-color: #33cc99;
     text-transform: uppercase;
     color: #7f7f7f;
 }
-nav .heart {
+.p2 nav .heart {
     background-image: url("https://orig00.deviantart.net/135e/f/2017/290/3/b/tooth_by_wellidkartist-dbqxj1s.png");
 }
-nav a {
+.p2 nav a {
     color: #fff !important;
 }
-a:link {
+.p2 a:link {
     color: #99ccff;
 }
-a:visited {
+.p2 a:visited {
     color: #6666ff;
 }
-a:hover, a:active {
+.p2 a:hover, a:active {
     color: #99ffff;
 }
-#main {
+.p2 #main {
     background-color: #669966;
 }
-#slide {
+.p2 #slide {
     display: block;
     background-color: #336666;
     color: #fff;
 }
-#foot {
+.p2 #foot {
     color: #00ffff;
 }
-#links {
+.p2 #links {
     color: #fff;
 }
-#info {
+.p2 #info {
     color: #fff;
 }
-#info > span > .spoiler.open {
+.p2 #info > span > .spoiler.open {
     background: #ccff99;
 }
-body#p3541 #links {
+.p2 body#p3541 #links {
     font-weight: bolder;
     font-size: 28px;
 }
-body#p3542 #command {
+.p2 body#p3542 #command {
     display: none;
 }
-body#p3542 #content .major {
+.p2 body#p3542 #content .major {
     margin-left: -175px;
 }
