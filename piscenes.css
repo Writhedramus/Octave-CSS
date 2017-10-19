@@ -17,10 +17,10 @@
     color: #fff !important;
 }
 .p2 a:link {
-    color: #99ccff;
+    color: #999933;
 }
 .p2 a:visited {
-    color: #6666ff;
+    color: #ffff66;
 }
 .p2 a:hover, a:active {
     color: #99ffff;
@@ -43,7 +43,7 @@
     color: #fff;
 }
 .p2 #info > span > .spoiler.open {
-    background: #ccff99;
+    background: #99cc66;
 }
 .p2 body#p3541 #links {
     font-weight: bolder;
