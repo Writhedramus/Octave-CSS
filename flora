@@ -14,7 +14,7 @@
     background-image: url("https://orig00.deviantart.net/3dcd/f/2017/291/5/7/cube_by_wellidkartist-dbr0r2y.gif");
 }
 .p1-999 nav a {
-    color: #000 !important;
+    color: #003366 !important;
 }
 .p1-999 a:link {
     color: #33ccff;
@@ -37,13 +37,13 @@
     color: #00ffff;
 }
 .p1-999 #links {
-    color: #fff;
+    color: #ccffff;
 }
 .p1-999 #info {
-    color: #fff;
+    color: #ccffff;
 }
 .p1-999 #info > span > .spoiler.open {
-    background: #669966;
+    background: #336633;
 }
 .p1-999 body#p3541 #links {
     font-weight: bolder;
