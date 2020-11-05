@@ -6,7 +6,7 @@
     background-image: url("https://orig00.deviantart.net/117d/f/2017/291/6/6/footheader_by_wellidkartist-dbr0r27.gif") !important;
 }
 .p1-999 nav {
-    background-color: #66cc33;
+    background-color: #99ff99;
     text-transform: uppercase;
     color: #003366;
 }
@@ -17,21 +17,21 @@
     color: #000 !important;
 }
 .p1-999 a:link {
-    color: #999933;
+    color: #33ccff;
 }
 .p1-999 a:visited {
-    color: #ffff66;
+    color: #0099cc;
 }
 .p1-999 a:hover, a:active {
-    color: #99ffff;
+    color: #ccff00;
 }
 .p1-999 #main {
-    background-color: #669966;
+    background-color: #66cc99;
 }
 .p1-999 #slide {
     display: block;
-    background-color: #004133;
-    color: #fff;
+    background-color: #1a4c33;
+    color: #ccffff;
 }
 .p1-999 #foot {
     color: #00ffff;
