@@ -1,0 +1,57 @@
+.p1-999 body {
+    background-color: #2f4f4f;
+}
+.p1-999 .mspfalogo {
+    border-right-color: #ccff99;
+    background-image: url("https://orig00.deviantart.net/117d/f/2017/291/6/6/footheader_by_wellidkartist-dbr0r27.gif") !important;
+}
+.p1-999 nav {
+    background-color: #66cc33;
+    text-transform: uppercase;
+    color: #003366;
+}
+.p1-999 nav .heart {
+    background-image: url("https://orig00.deviantart.net/3dcd/f/2017/291/5/7/cube_by_wellidkartist-dbr0r2y.gif");
+}
+.p1-999 nav a {
+    color: #000 !important;
+}
+.p1-999 a:link {
+    color: #999933;
+}
+.p1-999 a:visited {
+    color: #ffff66;
+}
+.p1-999 a:hover, a:active {
+    color: #99ffff;
+}
+.p1-999 #main {
+    background-color: #669966;
+}
+.p1-999 #slide {
+    display: block;
+    background-color: #004133;
+    color: #fff;
+}
+.p1-999 #foot {
+    color: #00ffff;
+}
+.p1-999 #links {
+    color: #fff;
+}
+.p1-999 #info {
+    color: #fff;
+}
+.p1-999 #info > span > .spoiler.open {
+    background: #669966;
+}
+.p1-999 body#p3541 #links {
+    font-weight: bolder;
+    font-size: 28px;
+}
+.p1-999 body#p3542 #command {
+    display: none;
+}
+.p1-999 body#p3542 #content .major {
+    margin-left: -175px;
+}
