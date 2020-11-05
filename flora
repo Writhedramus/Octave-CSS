@@ -3,7 +3,7 @@
 }
 .p1-999 .mspfalogo {
     border-right-color: #ccff99;
-    background-image: url("https://orig00.deviantart.net/117d/f/2017/291/6/6/footheader_by_wellidkartist-dbr0r27.gif") !important;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c8b45ba-fb6b-4b94-9e12-99f159561041/de87o7w-4a17d76e-c63f-4b0e-93fc-2a4e43a276fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvM2M4YjQ1YmEtZmI2Yi00Yjk0LTllMTItOTlmMTU5NTYxMDQxXC9kZTg3bzd3LTRhMTdkNzZlLWM2M2YtNGIwZS05M2ZjLTJhNGU0M2EyNzZmZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.yCpO1wCalO8WQvh37JVtvx_cb7hWQyXNTCIk9namvYc") !important;
 }
 .p1-999 nav {
     background-color: #99ff99;
